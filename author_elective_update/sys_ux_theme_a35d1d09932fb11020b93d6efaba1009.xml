@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme">
+    <sys_ux_theme action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>Custom Theme</name>
+        <parent/>
+        <sys_class_name>sys_ux_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 17:18:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a35d1d09932fb11020b93d6efaba1009</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_ux_theme_a35d1d09932fb11020b93d6efaba1009</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 17:18:21</sys_updated_on>
+        <theme/>
+    </sys_ux_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>a4a3c7751b3d759852a243f4bd4bcb8d</instance_id>
+        <instance_name>dev182935</instance_name>
+        <name>sys_ux_theme_a35d1d09932fb11020b93d6efaba1009</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme"><sys_ux_theme action="INSERT_OR_UPDATE"><active>true</active><description/><name>Custom Theme</name><parent/><sys_class_name>sys_ux_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 17:18:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a35d1d09932fb11020b93d6efaba1009</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Custom Theme</sys_name><sys_overrides/><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sys_ux_theme_a35d1d09932fb11020b93d6efaba1009</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 17:18:21</sys_updated_on><theme/></sys_ux_theme></record_update>]]></payload>
+        <payload_hash>-581221001</payload_hash>
+        <record_name>Custom Theme</record_name>
+        <reverted_from/>
+        <source>99f4dcb49327711020b93d6efaba100f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 17:18:22</sys_created_on>
+        <sys_id>b26d5909932fb11020b93d6efaba1097</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cd05553390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 17:18:22</sys_updated_on>
+        <type>UX Theme</type>
+        <update_guid>f66d59093c2fb110d5b012c37862d796</update_guid>
+        <update_guid_history>f66d59093c2fb110d5b012c37862d796:-581221001</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 17:21:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_theme">sys_ux_theme</sys_db_object>
+        <sys_id>de8e5663654846408d811f36995a4464</sys_id>
+        <sys_metadata>a35d1d09932fb11020b93d6efaba1009</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Theme</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sys_ux_theme_a35d1d09932fb11020b93d6efaba1009</sys_update_name>
+        <sys_update_version display_value="sys_ux_theme_a35d1d09932fb11020b93d6efaba1009">b26d5909932fb11020b93d6efaba1097</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 17:21:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

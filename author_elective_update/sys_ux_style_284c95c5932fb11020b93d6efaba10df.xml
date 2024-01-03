@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="DELETE">
+        <name>Custom theme</name>
+        <style>{&#13;
+    "base": {&#13;
+    },&#13;
+    "properties":{&#13;
+        "--now-unified-nav_header--background-color": "255, 0, 0"&#13;
+    }&#13;
+}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 17:16:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>284c95c5932fb11020b93d6efaba10df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_ux_style_284c95c5932fb11020b93d6efaba10df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 17:16:50</sys_updated_on>
+        <type>core</type>
+    </sys_ux_style>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>a4a3c7751b3d759852a243f4bd4bcb8d</instance_id>
+        <instance_name>dev182935</instance_name>
+        <name>sys_ux_style_284c95c5932fb11020b93d6efaba10df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style"><sys_ux_style action="INSERT_OR_UPDATE"><name>Custom theme</name><style>{&#13;
+    "base": {&#13;
+    },&#13;
+    "properties":{&#13;
+        "--now-unified-nav_header--background-color": "255, 0, 0"&#13;
+    }&#13;
+}</style><sys_class_name>sys_ux_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 17:16:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>284c95c5932fb11020b93d6efaba10df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Custom theme</sys_name><sys_overrides/><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sys_ux_style_284c95c5932fb11020b93d6efaba10df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 17:16:50</sys_updated_on><type>core</type></sys_ux_style></record_update>]]></payload>
+        <payload_hash>1216689026</payload_hash>
+        <record_name>Custom theme</record_name>
+        <reverted_from/>
+        <source>99f4dcb49327711020b93d6efaba100f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 17:16:50</sys_created_on>
+        <sys_id>ec1d1dc5932fb11020b93d6efaba10a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cd053eddb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 17:16:50</sys_updated_on>
+        <type>UX Style</type>
+        <update_guid>241d1dc5cf2fb110d698d3fbd6a0d7a5</update_guid>
+        <update_guid_history>241d1dc5cf2fb110d698d3fbd6a0d7a5:1216689026</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 17:22:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_style">sys_ux_style</sys_db_object>
+        <sys_id>10f2125df00748f398d91e36fcd4d709</sys_id>
+        <sys_metadata>284c95c5932fb11020b93d6efaba10df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom theme</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sys_ux_style_284c95c5932fb11020b93d6efaba10df</sys_update_name>
+        <sys_update_version display_value="sys_ux_style_284c95c5932fb11020b93d6efaba10df">ec1d1dc5932fb11020b93d6efaba10a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 17:22:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
